@@ -1,3 +1,7 @@
+[alias]
+  cm = commit -m
+  lg = log --decorate=no --max-count=10 --oneline --graph --color=always
+  st = status -b -s
 [user]
   email = doef@users.noreply.github.com
   name = doef

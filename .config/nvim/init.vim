@@ -13,6 +13,7 @@ set sidescrolloff=4
 set smartcase
 set softtabstop=2
 set tabstop=4
+set termguicolors
 set ttimeout
 set ttimeoutlen=50
 set viminfo=
